@@ -28,7 +28,7 @@ Execute the programs and publish them.
 ```
 
 map.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -50,11 +50,11 @@ map.html
     <center><footer><h1>Jeyaarikaran P - 212224240064</h1></footer></center>
 </body>
 </html>
-
+```
 
 beach.html
 
-
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -72,10 +72,10 @@ beach.html
     
 </body>
 </html>
-
+```
 
 river.html :
-
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -97,9 +97,9 @@ The river also holds cultural and environmental importance, as it connects sever
 </body>
 </html>
 
-
+```
 temple.html :
-
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -121,9 +121,9 @@ Though smaller than the famous Madurai Meenakshi Temple, the Vilathikulam Meenak
 </body>
 </html>
 
-
+```
 place.html :
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -151,11 +151,12 @@ Beach :
 ![alt text](1.png)
 
 Place :
+<img width="1918" height="1139" alt="2" src="https://github.com/user-attachments/assets/d44a27cd-c7f1-4fe2-a219-181c9b13f7d7" />
 
-![alt text](image.png)
 
 River :
-![alt text](image-1.png)
+<img width="1919" height="1138" alt="3" src="https://github.com/user-attachments/assets/173b35ae-7d56-48fd-b878-b6ea84117fb1" />
+
 
 Temple :
 
