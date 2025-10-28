@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE :
-```
+
 
 map.html
 ```
@@ -145,6 +145,9 @@ place.html :
 
 
 ## OUTPUT :
+map :
+![map](https://github.com/user-attachments/assets/0fb16968-4939-4881-a481-c84aa2a03efd)
+
 
 Beach :
 
